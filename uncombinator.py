@@ -1,16 +1,6 @@
 #!/usr/bin/env python3
 
 """
-Uncombinator is a combination lock breaker for locks with multiple dials.
-
-When most people lock one of these, they simply swipe the dials with their thumb and leave. However, this leaves a lot of information behind on the dials.
-
-In places where the lock is publicly accessible in its locked state, and the lock is locked and unlocked rather often, there is enough information left behind to crack the combination!
-
-First, when a lock is publicly accessible, we can train the model on data that 
-"""
-
-"""
 from . import bayes
 
 c = bayes.Classifier()
