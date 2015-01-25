@@ -28,4 +28,4 @@ Also, it generates cool plots with Matplotlib:
 
 Here's a picture of it in action:
 
-![Pics and stuff](picture.png)
+![Pics and stuff](picture.jpg)
